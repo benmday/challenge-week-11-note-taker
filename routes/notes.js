@@ -36,7 +36,7 @@ notes.get("/:id", (req, res) => {
     .then((data) => JSON.parse(data))
     .then((json) => {
       const result = json.filter((note) => note.id === noteID);
-      return result.length > 0 ? res.json(result) : res.json("No note found");
+      return result.length > 0 ? result : res.json("No note found");
     });
 });
 

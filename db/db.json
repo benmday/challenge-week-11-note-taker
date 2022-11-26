@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "title": "Christmas",
+        "text": "Christmas is coming",
+        "id": "75e0c100-8694-4df6-8a68-770bc0af04f2"
+    },
+    {
+        "title": "Mom",
+        "text": "Mom is cool",
+        "id": "078445d2-c57d-49a2-a360-378b9f887d21"
+    },
+    {
+        "title": "Computers",
+        "text": "blog",
+        "id": "6d394c65-b882-4d82-8aef-1940f73f45b8"
+    },
+    {
+        "title": "New note",
+        "text": "test",
+        "id": "bcec50c5-91ec-45d1-8cf2-6c406f1197ed"
+    }
+]
